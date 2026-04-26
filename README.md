@@ -22,3 +22,7 @@ Currently building backend systems with Python and FastAPI.
 ## 📌 Featured Projects
 - [RSDD Meeting Management System](https://github.com/abdullahghanem-a11y/RSDD) — This system manages meetings, users, departments, and integrates with Google Calendar and email notifications.
 
+- [Car Damage Detection System](https://github.com/abdullahghanem-a11y/car-damage-detection) - This system automatically localizes and classifies six types of car damage from images.
+
+- [US Accidents Analysis](https://github.com/abdullahghanem-a11y/NC-MI_accident-analysis) - This covers data cleaning, statistical analysis & 15 visualisations for 2 states North Carolina (NC) & Michigan (MI).
+
